@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I like making video games 👾
+
 <!--
 **Jack-Pettigrew/Jack-Pettigrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
