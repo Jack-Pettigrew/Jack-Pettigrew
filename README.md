@@ -2,9 +2,8 @@
 
 I like making video games 👾
 
-🎮 Check out some games I've worked on: https://pixeldump.itch.io/
-
-📹 Watch my video game devlogs: https://youtube.com/playlist?list=PLK-WtXTiwG01_W2roS1Y9Ysn4EmHJvLRt
+- 🎮 Check out some games I've worked on: https://pixeldump.itch.io/
+- 📹 Watch my video game devlogs: https://youtube.com/playlist?list=PLK-WtXTiwG01_W2roS1Y9Ysn4EmHJvLRt
 
 <!--
 **Jack-Pettigrew/Jack-Pettigrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
