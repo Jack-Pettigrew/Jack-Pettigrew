@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I like making video games 👾
+I like making video games & creating content about all things video games over on YouTube 👾💻
 
 - 🎮 Check out some games I've worked on: https://jackpettigrew.itch.io/
 - 📹 Watch my video game devlogs: [DarkDax Game Development Playlist | YouTube](https://youtube.com/playlist?list=PLK-WtXTiwG01_W2roS1Y9Ysn4EmHJvLRt)
